@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rouoh
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in HTML and CSS
+- 🌱 I’m currently learning HTML and CSS
 
 <!---
 rouoh/rouoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
